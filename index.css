@@ -1,4 +1,4 @@
-.welcome-section {
+#welcome-section {
   margin-top: 75px;
   display: flex;
   flex-direction: column;
@@ -6,7 +6,32 @@
   align-items: center;
   width: 100%;
   height:100vh;
-  background-color: #DAE7FF;
+
+  background-image: url(https://cdn.photographylife.com/wp-content/uploads/2018/07/Slot-Canyon-Monochrome.jpg);
+}
+#lexi-box {
+  background-color: #e5e5e5;
+  opacity:.4;
+  text-align: center;
+  width: 350px;
+
+}
+
+#sol-text {
+  background-color: #e5e5e5;
+  opacity:.8;
+  text-align: center;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+}
+#about-text {
+  background-color: #e5e5e5;
+  opacity:.8;
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+
 }
 
 #navbar {
@@ -16,7 +41,12 @@
   width: 100%;
   align-items: center;
   margin: auto;
-  background-color: RGB(255,229,180, 0.25)
+  background-color:#e5e5e5;
+  opacity: .5;
+  top: 0;
+  
+
+  
 
 }
 .nav-list {
@@ -30,11 +60,27 @@ li {
 }
 .projects-section{
   height:100vh;
-  background-color: #FFE5B4;
+  background-image: url(https://3g7o5v3d45pn4dcm5iztsdl8-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/Ansel-Adams-photography.jpg);
   text-align: center;
   }
   .contact-section {
     height: 100vh;
-    background-color: #FFC0B4;
+    background-image: url(https://cdn.photographylife.com/wp-content/uploads/2018/07/Slot-Canyon-Monochrome.jpg);
     text-align: center;
   }
+
+  body {
+    background-image: url(https://cdn.shopify.com/s/files/1/1417/3230/products/A0021116-Dark-Leaf-16-x-20_1024x1024.jpg?v=1504716017);
+    font-family: 'Open Sans', sans-serif;
+  }
+
+#contact-links {
+  background-color: #e5e5e5;
+  opacity:.8;
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+}
+
+
+  
